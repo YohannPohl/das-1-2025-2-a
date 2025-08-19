@@ -27,9 +27,9 @@ exit
 # Aula 05/08
 
 - SOLID
--- Single Responsibility Principle
--- Interface Segregation Principle
--- package br.univille;
+-      Single Responsibility Principle
+-      interface Segregation Principle
+-     package br.univille;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -92,13 +92,13 @@ public class Controlador implements ActionListener{
 # Aula 11/08
 
 - SOLID
--- Princípio da inversão de dependências
--- Prefira composição a herança
--- Princípio de Demeter (menor conhecimento)
--- Princípio Aberto/Fechado
+-     Princípio da inversão de dependências
+-     Prefira composição a herança
+-     Princípio de Demeter (menor conhecimento)
+-     Princípio Aberto/Fechado
 
 # Aula 12/08
 
 -SOLID
--- Princípio Liskov
+-      Princípio Liskov
 
