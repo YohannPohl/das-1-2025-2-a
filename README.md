@@ -1,6 +1,11 @@
 # das-1-2025-2-a
 # Design e Arquitetura de Software 1 - 2025/2 Turma A
 
+
+Espaço
+
+
+
 # Configuração do GIT
 
 git config --global user.name "NOME DO USUARIO NO GITHUB"
@@ -99,6 +104,6 @@ public class Controlador implements ActionListener{
 
 # Aula 12/08
 
--SOLID
+- SOLID
 -      Princípio Liskov
 
