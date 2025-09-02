@@ -256,3 +256,49 @@ DevOps
 
 - ... Implantar -> Operar -> Comentarios -> continuos -> planejar -> criar -> integração -> continua -> Implantar ...
 
+# 02/09 Leitura de Capitulo 2 e resumo.
+
+# O Arquiteto de software tem seus quatro pilares principais:
+
+# 1. Arquitetura vs Design
+
+- Arquitetura define a estrutura e as diretrizes de um sistema.
+
+- Design cuida dos detalhes de implementação.
+
+- A separação rígida entre arquitetos e desenvolvedores (modelo tradicional) dificulta a aplicação prática da arquitetura.
+
+- O modelo ideal é colaborativo, com comunicação constante e decisões compartilhadas.
+
+# 2. Amplitude Técnica
+
+- Arquitetos precisam conhecer muitas tecnologias (amplitude), mesmo que sem dominar todas (profundidade).
+
+- A “pirâmide do conhecimento” mostra:
+
+- Topo: o que você sabe bem.
+
+- Meio: o que conhece superficialmente.
+
+- Base: o que nem sabe que existe.
+
+- Arquitetos devem investir no meio da pirâmide, ampliando sua visão de soluções possíveis.
+
+# 3. Análise de Trade-offs
+
+- Arquitetura é sobre fazer escolhas conscientes, equilibrando prós e contras técnicos, operacionais e estratégicos.
+
+- O arquiteto deve avaliar alternativas considerando impactos como desempenho, escalabilidade e manutenção.
+
+# 4. Alinhamento com o Negócio
+
+- Arquitetos precisam entender os objetivos da empresa e transformá-los em decisões técnicas coerentes.
+
+- A arquitetura deve atender ao negócio, não apenas à tecnologia.
+
+- Antipadrão: "Homem das Cavernas Congelado"
+
+- Arquitetos às vezes tomam decisões baseadas em traumas passados e medos antigos, não em fatos atuais.
+
+- É essencial avaliar riscos com realismo, evitar obsessões e manter a mente aberta a novas soluções.
+
