@@ -107,3 +107,8 @@ public class Controlador implements ActionListener{
 - SOLID
 -      Princípio Liskov
 
+# 01/09 
+# Caracteristicas da Arquitetura
+-Requisitos não funcionais
+
+Impossivel atender todos os itens, sempre terá que abrir mão de algo.
