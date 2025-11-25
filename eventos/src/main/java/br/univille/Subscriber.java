@@ -7,11 +7,11 @@ import com.azure.messaging.servicebus.models.ServiceBusReceiveMode;
 
 public class Subscriber {
     public static void main(String[] args) {
-        var servidor = "";
+        var servidor = "sbdas12025a.servicebus.windows.net";
         var topicName = "topic-das1-a";
 
         String chave = System.getenv("CHAVE");
-        var subscription = "subscription-guilhermecosta";
+        var subscription = "subscription-waltercoan";
         
         ServiceBusProcessorClient processorClient =
             new ServiceBusClientBuilder()

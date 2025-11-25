@@ -9,7 +9,7 @@ public class Publisher {
     private ArrayList<Subscriber> subscribers =
         new ArrayList<>();
     private String mainState;
-    
+
     public String getMainState() {
         return mainState;
     }
@@ -20,10 +20,10 @@ public class Publisher {
     public void subscribe(Subscriber assinante){
         subscribers.add(assinante);
     }
-
     public void notifySubscribers(){
         for(Subscriber umAssinante: subscribers){
             umAssinante.update(mainState);
         }
     }
+
 }
