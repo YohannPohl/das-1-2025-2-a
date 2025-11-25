@@ -582,8 +582,14 @@ Código-fonte → Analisador Léxico → Analisador Sintático → Otimizador �
 
 #### Diagrama 
 
+```mermaid  
 flowchart LR
-    A[Entrada] --> B[Filtro 1]  B --> C[Filtro 2] C --> D[Filtro 3]  D --> E[Saída]
+    A[Entrada] --> 
+    B[Filtro 1]  B --> 
+    C[Filtro 2] C --> 
+    D[Filtro 3]  D --> 
+    E[Saída]
+```
 ---
 
 # Aula 03/11 e 04/11
